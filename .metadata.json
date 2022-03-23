@@ -1,5 +1,6 @@
 [
   {
-    "package": "dmdScheme"
+    "package": "dmdScheme",
+    "oncran": false
   }
 ]
