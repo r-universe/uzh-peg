@@ -8,3 +8,8 @@
 	url = https://github.com/UZH-PEG/dmdScheme
 	shallow = true
 	registered = true
+[submodule "microxanox"]
+	path = microxanox
+	url = https://github.com/UZH-PEG/microxanox
+	shallow = true
+	registered = true
