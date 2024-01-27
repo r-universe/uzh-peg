@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/uzh-peg/universe
+	url = https://github.com/uzh-peg/uzh-peg.r-universe.dev
 	branch = HEAD
 [submodule "dmdScheme"]
 	path = dmdScheme
